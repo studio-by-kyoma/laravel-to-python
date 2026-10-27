@@ -36,7 +36,7 @@ python part-01/halo.py
 | Part | Topic | Status |
 |------|-------|--------|
 | 01 | Your first Python program | Done |
-| 02 | Variables and data types | Planned |
+| 02 | Variables and data types | Done |
 | 03 | Strings and f-strings | Planned |
 | 04 | Lists and tuples | Planned |
 | 05 | Dictionaries and sets | Planned |
